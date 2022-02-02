@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... 
--   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
--   <img height=20 src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" alt="ASP.NET CORE">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
+  <img height=20 src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" alt="ASP.NET CORE">
 - 🌱 I’m currently learning ... GraphQL
 - 👯 I’m looking to collaborate on ... Backend Development
 - 🤔 I’m looking for help with ... GraphQL, Aggregate NodeJS
