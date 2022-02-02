@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... GraphQL, Aggregate NodeJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cabisadaandrian@gmail.com
-- ⚡ Fun fact: ... I like to code on the back end. I'm a skateboarding after work.
+- ⚡ Fun fact: ... I like to code on the back end. I'm a skateboarder after work.
 
