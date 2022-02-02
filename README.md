@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... NodeJS, ASP.NET CORE
+- 🔭 I’m currently working on ... NodeJS,  <img height=20 src="https://miro.medium.com/max/750/1*PNTm74qpoQIE7zRkZq27_g.png" alt="ASP.NET CORE">ASP.NET CORE
 - 🌱 I’m currently learning ... GraphQL
 - 👯 I’m looking to collaborate on ... Backend Development
 - 🤔 I’m looking for help with ... GraphQL, Aggregate NodeJS
