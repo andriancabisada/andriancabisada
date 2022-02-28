@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email](mailto:cabisadaandrian@gmail.com)
+<!--
 - ⚡ Fun fact: ... I like to code on the back end. I'm a <img height="40" src="https://media0.giphy.com/media/5qFNW5FyCu7jqLcYP8/giphy.gif"> after work.
-
+-->
