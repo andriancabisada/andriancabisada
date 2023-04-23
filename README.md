@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with experience in a variety of technologies, including:
 
-- Frontend: VanillaJS, ReactJS, JQuery
+- Frontend: VanillaJS
 - Backend: NodeJS, C# ASP.NET CORE, Python Flask, Java Springboot, PHP Laravel
 - Databases: MySQL, Microsoft SQL Server, MongoDB
 - Version Control: Git, Github, Gitlab, Bitbucket
