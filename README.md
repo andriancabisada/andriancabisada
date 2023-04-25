@@ -3,7 +3,7 @@
 I'm a full-stack developer with experience in a variety of technologies, including:
 
 - Frontend: VanillaJS
-- Backend: NodeJS, C# ASP.NET CORE, Python Flask, Java Springboot, Golang Gin
+- Backend: NodeJS, C# ASP.NET CORE, Python Flask, Java Springboot
 - Databases: MySQL, Microsoft SQL Server, MongoDB
 - Version Control: Git, Github, Gitlab, Bitbucket
 - Cloud: AWS (EC2, RDS, Lambda, API Gateway)
