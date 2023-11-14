@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with experience in a variety of technologies, including:
 
-- Frontend: VanillaJS, Blazor Page, Razor Pages, Kendo UI, JQuery AJAX, Bootstrap Framework, Material UI
+- Frontend: VanillaJS, JQuery AJAX, Bootstrap Framework, Material UI
 - Backend: NodeJS, C# ASP.NET CORE, Python Flask / Django
 - Databases: MySQL, Microsoft SQL Server, MongoDB
 - Code Versioning: Git, Github, Gitlab, Bitbucket
