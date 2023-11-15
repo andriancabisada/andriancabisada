@@ -2,10 +2,11 @@
 
 I'm a full-stack developer with experience in a variety of technologies, including:
 
-- Frontend: VanillaJS, JQuery AJAX, Bootstrap Framework, Material UI
+- Frontend: VanillaJS, JQuery AJAX, Bootstrap Framework, Material UI, Tailwind
 - Backend: NodeJS, C# ASP.NET CORE, Python Flask / Django
 - Databases: RDMS( MySQL, Microsoft SQL Server), NoSQL (MongoDB, DynamoDB)
-- Code Versioning: Git, Github, Gitlab, Bitbucket
+- Code Version Control: Git,
+- Code Repositories: Github, Gitlab, Bitbucket
 - Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS)
 - Containers: Docker
 
