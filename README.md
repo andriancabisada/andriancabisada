@@ -4,10 +4,11 @@ I'm a full-stack developer with experience in a variety of technologies, includi
 
 - Frontend: VanillaJS, JQuery AJAX, Bootstrap Framework, Material UI, Tailwind
 - Backend: NodeJS, C# ASP.NET CORE, Python Flask / Django
-- Databases: RDMS (MySQL, Microsoft SQL Server), NoSQL (MongoDB, DynamoDB)
+- Databases: RDMS (MySQL, Microsoft SQL Server, Postgres), NoSQL (MongoDB, DynamoDB)
 - Code Version Control: Git,
 - Code Repositories: Github, Gitlab, Bitbucket
-- Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS)
+- Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS, SES)
+- Operating System: Windows, Linux (Ubuntu)
 - Containers: Docker
 
 Feel free to check out some of my projects on [GitHub](https://github.com/andriancabisada?tab=repositories).
