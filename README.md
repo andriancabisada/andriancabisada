@@ -7,7 +7,7 @@ I'm a full-stack developer with experience in a variety of technologies, includi
 - Databases: RDMS (MySQL, Microsoft SQL Server, Postgres), NoSQL (MongoDB, DynamoDB)
 - Code Version Control: Git,
 - Code Repositories: Github, Gitlab, Bitbucket
-- Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS, SES)
+- Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS, SES, CloudWatch)
 - Operating System: Windows, Linux (Ubuntu)
 - Containers: Docker
 
