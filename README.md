@@ -8,7 +8,7 @@ I'm a full-stack developer with experience in a variety of technologies, includi
 - Code Version Control: Git, SVN
 - Code Repositories: Github, Gitlab, Bitbucket
 - Cloud: AWS (EC2, RDS, Lambda, API Gateway, S3, SNS, SES, CloudWatch)
-- Operating System: Windows, Linux (Ubuntu)
+- Operating System: Windows, Linux
 - Containers: Docker
 
 Feel free to check out some of my projects on [GitHub](https://github.com/andriancabisada?tab=repositories).
